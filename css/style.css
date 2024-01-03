@@ -259,6 +259,7 @@ header .fa-bars{
     font-size: 4.5rem;
     color: var(--sc-color);
     margin: 1rem;
+    vertical-align: top;
 
 }
 .team .team-slider .box .content p{
